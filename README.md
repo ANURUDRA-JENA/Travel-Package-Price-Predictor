@@ -1,1 +1,1 @@
-# Travel-Package-Price-Predictor
+# Travel Package Price Predictor
